@@ -17,6 +17,10 @@ public class Main {
             "2- Add Racing Bike",
             "3- Back",
     };
+    
+    public static void printSample01(){
+        System.out.print("This is a sample print method 01");
+    }
 
     public static void printMenu(String[] options){
         for (String option : options){
