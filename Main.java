@@ -21,6 +21,10 @@ public class Main {
     public static void printSample02(){
         System.out.print("This is a sample print method 02");
     }
+ 
+    public static void printSample01(){
+        System.out.print("This is a sample print method 01");
+    }
 
     public static void printMenu(String[] options){
         for (String option : options){
